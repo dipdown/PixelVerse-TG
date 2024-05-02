@@ -1,4 +1,4 @@
-# BotPXLV
+# Tele Bot PXL Verse
 
 ## Installation
 1. Clone Repo: `git clone https://github.com/dipdown/telepxlverse.git`
