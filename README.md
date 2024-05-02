@@ -1,9 +1,9 @@
 # BotPXLV
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/dipdown/telepxlverse.git`
-2. Navigate to the project directory: `cd telepxlverse`
-3. Install dependencies: `npm install`
+1. Clone Repo: `git clone https://github.com/dipdown/telepxlverse.git`
+2. Move Directory: `cd telepxlverse`
+3. Install Node Dependencies: `npm install`
 
 ## Usage
 1. Run the script: `node telebot.js`
