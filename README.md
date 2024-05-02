@@ -2,7 +2,7 @@
 
 ## Installation
 1. Clone the repository: `git clone https://github.com/dipdown/telepxlverse.git`
-2. Navigate to the project directory: `cd botpxlv`
+2. Navigate to the project directory: `cd telepxlverse`
 3. Install dependencies: `npm install`
 
 ## Usage
